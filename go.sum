@@ -6,3 +6,5 @@ github.com/noshto/dsig v0.0.3 h1:kfRPaCH68qr8XGj3LxC77ub/4H/eHASW7CBRegQzE3M=
 github.com/noshto/dsig v0.0.3/go.mod h1:qAqQSvjuBt5JV6lcOiBCR52cvfE3KmBFnyoOCZIART4=
 github.com/noshto/sep v0.0.4 h1:GmqKGbOxoCNlhj3OrSYU4BUpxFF+KbjaCMJTJGMn/t0=
 github.com/noshto/sep v0.0.4/go.mod h1:o34LxYoCqnrpwjfLkVL+PsET6M6THS2bntmXxtu32a8=
+github.com/noshto/sep v0.0.17 h1:4Ww/lirYSAbv3yh1g4QTGnH/MiExQv6PvhuibDbTCAM=
+github.com/noshto/sep v0.0.17/go.mod h1:o34LxYoCqnrpwjfLkVL+PsET6M6THS2bntmXxtu32a8=
